@@ -2,6 +2,30 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+
+        <!-- Informações do pacote -->
+        <PackageId>ToonNetLib</PackageId>
+        <Version>1.0.1</Version>
+        <Authors>Júnior Schröder</Authors>
+        <Company>ToonNet</Company>
+        <Description>Library for TOON serialization and deserialization for AI API integrations.</Description>
+        <PackageTags>TOON;serialization;ai;integration;token</PackageTags>
+        <RepositoryUrl>https://github.com/juniorschroder/ToonNet</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/juniorschroder/ToonNet</PackageProjectUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+        <!-- Ícone do pacote -->
+        <PackageIcon>icon.png</PackageIcon>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+
+        <!-- Geração automática do pacote -->
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
+
+    <!-- Inclui arquivos no pacote NuGet -->
+    <ItemGroup>
+        <None Include="../icon.png" Pack="true" PackagePath="" />
+        <None Include="../README.md" Pack="true" PackagePath="" />
+    </ItemGroup>
 
 </Project>

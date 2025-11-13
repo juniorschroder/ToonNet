@@ -6,6 +6,14 @@
 [![NuGet](https://img.shields.io/nuget/v/ToonNet.svg?logo=nuget)](https://www.nuget.org/packages/ToonNet)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET%20Standard-2.0-blue.svg)](https://learn.microsoft.com/dotnet/standard/net-standard)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=juniorschroder_ToonNet&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=juniorschroder_ToonNet)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=juniorschroder_ToonNet&metric=coverage)](https://sonarcloud.io/summary/new_code?id=juniorschroder_ToonNet)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=juniorschroder_ToonNet&metric=bugs)](https://sonarcloud.io/summary/new_code?id=juniorschroder_ToonNet)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=juniorschroder_ToonNet&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=juniorschroder_ToonNet)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=juniorschroder_ToonNet&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=juniorschroder_ToonNet)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=juniorschroder_ToonNet&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=juniorschroder_ToonNet)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=juniorschroder_ToonNet&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=juniorschroder_ToonNet)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=juniorschroder_ToonNet&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=juniorschroder_ToonNet)
 
 ---
 
@@ -24,7 +32,7 @@ ToonNet é uma biblioteca .NET Standard 2.0 que implementa o formato **TOON (Tok
 ## Installation / Instalação
 
 ```bash
-dotnet add package ToonNet
+dotnet add package ToonNetLib
 ```
 
 ---
