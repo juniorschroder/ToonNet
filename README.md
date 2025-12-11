@@ -3,7 +3,7 @@
 > **EN:** Token-Oriented Object Notation (TOON) — a lightweight, efficient notation for serializing and deserializing objects, optimized for AI API integrations.  
 > **PT:** Notação de Objetos Orientada a Tokens (TOON) — uma notação leve e eficiente para serialização e desserialização de objetos, otimizada para integrações com APIs de IA.
 
-[![NuGet](https://img.shields.io/nuget/v/ToonNet.svg?logo=nuget)](https://www.nuget.org/packages/ToonNet)
+[![NuGet](https://img.shields.io/nuget/v/ToonNetLib.svg?logo=nuget)](https://www.nuget.org/packages/ToonNetLib)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET%20Standard-2.0-blue.svg)](https://learn.microsoft.com/dotnet/standard/net-standard)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=juniorschroder_ToonNet&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=juniorschroder_ToonNet)
